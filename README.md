@@ -1,5 +1,5 @@
 # Scientific Computing With Python & Mathematica
-Lecture Notes for MKP3303: Scientific Computing
+Lecture Notes for MKG3303: Scientific Computing
 
 Kursus ini menerapkan elemen asas bagi komputeran saintifik, khususnya kaedah bagi menyelesaikan atau penghampiran penyelesaian untuk masalah kalkulus dan aljabar linear dalam masalah dunia nyata. Dengan menggunakan masalah model tak-remeh, serta persekitaran komputeran saintifik dan visualisasi, pelajar diperkenalkan kepada konsep asas pengkomputeran bagi keseimbangan, kejituan dan kecekapan. Selain itu, kaedah/teknik analitikal dan berangka baharu diperkenalkan untuk menyelesaikan masalah lebih rumit.
 
